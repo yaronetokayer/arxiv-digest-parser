@@ -1,0 +1,165 @@
+Collected 77 total articles, 6 of which are keyword articles.
+
+=== Keyword Matches ===
+- Exploring non-cold dark matter in a scenario of dynamical dark energy with DESI DR2 data [Tian-Nuo Li, Peng-Ju Wu, Guo-Hong Du]
+  https://arxiv.org/abs/2507.07798
+  → match: title
+- A Semi-Analytic model for Effects of Fuzzy Dark Matter Granule Perturbations on Orbital Motion [Yu Zhao, Andrew Benson, Xiaolong Du]
+  https://arxiv.org/abs/2507.07963
+  → match: title
+- 20 GeV halo-like excess of the Galactic diffuse emission and implications for dark matter annihilation [Tomonori Totani]
+  https://arxiv.org/abs/2507.07209
+  → match: title
+- Numerical Challenges in Modeling Gravothermal Collapse in Self-Interacting Dark Matter Halos [Igor Palubski, Oren Slone, Manoj Kaplinghat]
+  https://arxiv.org/abs/2402.12452
+  → match: title, author: Kaplinghat, author: Lisanti
+- Searching for Dark Matter with MeVCube [Akash Kumar Saha]
+  https://arxiv.org/abs/2501.13162
+  → match: title
+- The Simplest Dark Matter Model at the Edge of Perturbativity [Miguel Escudero, Thomas Hambye]
+  https://arxiv.org/abs/2505.02408
+  → match: title
+
+=== Other Articles ===
+- Little Red Dots from Small-Scale Primordial Black Hole Clustering [Borui Zhang, Wei-Xiang Feng, Haipeng An]
+  https://arxiv.org/abs/2507.07171
+- Ten-dimensional neural network emulator for the nonlinear matter power spectrum [Yanhui Yang, Simeon Bird, Ming-Feng Ho]
+  https://arxiv.org/abs/2507.07177
+- Design and optimization of neural networks for multifidelity cosmological emulation [Yanhui Yang, Simeon Bird, Ming-Feng Ho]
+  https://arxiv.org/abs/2507.07184
+- Braneworld Dark Energy in light of DESI DR2 [Swagat S. Mishra, William L. Matthewson, Varun Sahni]
+  https://arxiv.org/abs/2507.07193
+- CLASS_SZ II: Notes and Examples of Fast and Accurate Calculations of Halo Model, Large Scale Structure and Cosmic Microwave Background Observables [Boris Bolliet, Aleksandra Kusiak, Fiona McCarthy]
+  https://arxiv.org/abs/2507.07346
+- The z=1.03 Merging Cluster SPT-CL J0356-5337: New Strong Lensing Analysis with HST and MUSE [Grace Smith, Guillaume Mahler, Kate Napier]
+  https://arxiv.org/abs/2507.07404
+- Euclid: Early Release Observations. Weak gravitational lensing analysis of Abell 2390 [T. Schrabback (1 and 2), G. Congedo (3), R. Gavazzi (4 and 5)]
+  https://arxiv.org/abs/2507.07629
+- Whispers from the Early Universe: The Ringdown of Primordial Black Holes [Chen Yuan, Zhen Zhong, and Qing-Guo Huang]
+  https://arxiv.org/abs/2507.07665
+- Fisher Score Matching for Simulation-Based Forecasting and Inference [Ce Sui, Shivam Pandey, Benjamin D. Wandelt]
+  https://arxiv.org/abs/2507.07833
+- Probing small-scale primordial power spectra with tensor-scalar induced gravitational waves [Di Wu, Zhi-Chao Li, Peng-Yu Wu]
+  https://arxiv.org/abs/2507.07836
+- Baryonification: An alternative to hydrodynamical simulations for cosmological studies [Aurel Schneider, Michael Kova\v{c}, Jozef Bucko]
+  https://arxiv.org/abs/2507.07892
+- Constraints from CMB lensing tomography with projected bispectra [Lea Harscouet, David Alonso, Andrina Nicola]
+  https://arxiv.org/abs/2507.07968
+- Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel'dovich observations [Michael Kova\v{c}, Andrina Nicola, Jozef Bucko]
+  https://arxiv.org/abs/2507.07991
+- Empirical Calibration of Na I D and Other Absorption Lines as Tracers of High-Redshift Neutral Outflows [Lorenzo Moretti, Sirio Belli, Gwen C. Rudie]
+  https://arxiv.org/abs/2507.07160
+- Correlations between Dust Extinction Features across All Wavelength Scales: From Diffuse Interstellar Bands to R(V) [Andrew K. Saydjari and Gregory M. Green]
+  https://arxiv.org/abs/2507.07162
+- The Balmer Break and Optical Continuum of Little Red Dots From Super-Eddington Accretion [Hanpu Liu, Yan-Fei Jiang, Eliot Quataert]
+  https://arxiv.org/abs/2507.07190
+- B-fields And dust in interstelLar fiLAments using Dust POLarization (BALLAD-POL): IV. Grain alignment mechanisms in Cocoon Nebula (IC 5146) using polarization observations from JCMT/POL-2 [Saikhom Pravash, Thiem Hoang, Archana Soam]
+  https://arxiv.org/abs/2507.07205
+- The Open Cluster Chemical Abundances and Mapping Survey: VIII. Galactic Chemical Gradient and Azimuthal Analysis from SDSS/MWM DR19 [Jonah M. Otto, Peter M Frinchaboy, Natalie R. Myers]
+  https://arxiv.org/abs/2507.07264
+- Orientation of galaxy spins relative to filaments of the large-scale structure of the Universe [A. V. Antipova, D. I. Makarov, N. Libeskind and E. Tempel]
+  https://arxiv.org/abs/2507.07334
+- The Peculiar Mini-Halo in the Shapley Supercluster Member Abell 3558 [K. S. Trehaeven, T. Venturi, O. Smirnov]
+  https://arxiv.org/abs/2507.07549
+- Detecting Galactic Rings in the DESI Legacy Imaging Surveys with Semi-Supervised Deep Learning [Jianzhen Chen, Zhijian Luo, Cheng Cheng]
+  https://arxiv.org/abs/2507.07552
+- The Gaia RVS Benchmark Stars. III . Confirmed and New High Radial Velocity Stars From Gaia DR3 [Elisabetta Caffau (LIRA), David Katz (LIRA), Piercarlo Bonifacio (LIRA)]
+  https://arxiv.org/abs/2507.07558
+- Magnetic fields and cosmic rays in M31. II. Strength and distribution of the magnetic field components [Rainer Beck and Elly M. Berkhuijsen]
+  https://arxiv.org/abs/2507.07719
+- Why Jet Power and Star Formation Are Uncorrelated in Active Galaxies [David Garofalo, Brent McDaniel, Max North]
+  https://arxiv.org/abs/2507.07865
+- CO desorption from interstellar icy grains induced by IR excitation of superhydrogenated PAHs [L. Slumstrup, J. D. Thrower, A. T. Hopkinson]
+  https://arxiv.org/abs/2507.07896
+- On the statistical nature of Betti numbers and Euler characteristic of smooth random fields [Pravabati Chingangbam]
+  https://arxiv.org/abs/2507.06255
+- First release of LiteBIRD simulations from an end-to-end pipeline [M. Bortolami, N. Raffuzzi, L. Pagano]
+  https://arxiv.org/abs/2507.07122
+- Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics [Xueqing Xu, Boris Bolliet, Adrian Dimitrov]
+  https://arxiv.org/abs/2507.07155
+- Gravitational lensing rarely produces high-mass outliers to the compact binary population [Amanda Farah, Jose Mar\'ia Ezquiaga, Maya Fishbach]
+  https://arxiv.org/abs/2507.07964
+- Mass Distribution of Binary Black Hole Mergers from Young and Old Dense Star Clusters [Claire S. Ye (CITA), Maya Fishbach, Kyle Kremer]
+  https://arxiv.org/abs/2507.07183
+- IXPE Observations of the Blazar Mrk 501 in 2022: A Multiwavelength View [L. Lisalda, E. Gau, H. Krawczynski]
+  https://arxiv.org/abs/2507.07232
+- X-SHOOTER Spectrum of Comet C/2025 N1: Insights into a Distant Interstellar Visitor [A. Alvarez-Candal, J. L. Rizos, L. M. Lara]
+  https://arxiv.org/abs/2507.07312
+- KMT-2024-BLG-0404L: A triple microlensing system consisting of a star, a brown dwarf, and a planet [Cheongho Han, Andrzej Udalski, Chung-Uk Lee]
+  https://arxiv.org/abs/2507.07326
+- Imaging-Spectroscopic diagnosis of the Giant Sloshing Spiral in the Virgo Cluster with the Einstein Probe Follow-up X-ray Telescope [X. Zheng, S. Jia, C. Li]
+  https://arxiv.org/abs/2507.07412
+- Simulation of Binary-Single Interactions in AGN Disks II: Merger Probability of Binary Black Holes during Chaotic Triple Process [Mengye Wang, Qingwen Wu and Yiqiu Ma]
+  https://arxiv.org/abs/2507.07715
+- Constraints on interacting dark energy revisited: implications for the Hubble tension [Gabriel A. Hoerning, Ricardo G. Landim, Luiza O. Ponte]
+  https://arxiv.org/abs/2308.05807
+- Observational constraints on $\alpha$-Starobinsky inflation [Saisandri Saini and Akhilesh Nautiyal]
+  https://arxiv.org/abs/2409.05615
+- A novel approach to cosmological non-linearities as an effective fluid [Leonardo Giani, Rodrigo Von Marttens, Ryan Camilleri]
+  https://arxiv.org/abs/2410.15295
+- Primordial Black Hole Formation via Inverted Bubble Collapse [Kai Murai, Kodai Sakurai, Fuminobu Takahashi]
+  https://arxiv.org/abs/2502.02291
+- Quasar Pairs as Large--Scale Structure tracers [Mart\'in G. Richarte, Facundo Toscano, Diego G. Lambas]
+  https://arxiv.org/abs/2504.01251
+- Alleviating the Hubble Tension with a Local Void and Transitions of the Absolute Magnitude [Jing-Yi Jia, Jia-Lei Niu, Da-Chun Qiang]
+  https://arxiv.org/abs/2504.13380
+- Milliarcsecond astrometric oscillations in active galactic nuclei as a precursor of multi-messenger gravitational wave events [Leonid I. Gurvits, Alexander G. Polnarev, Sandor Frey]
+  https://arxiv.org/abs/2507.02146
+- Are compact groups of galaxies special? [Matthieu Tricottet, Gary A. Mamon, Eugenia D\'iaz-Gim\'enez]
+  https://arxiv.org/abs/2407.20357
+- Galactic Orbits of Interstellar Objects [Shokhruz Kakharov and Abraham Loeb]
+  https://arxiv.org/abs/2408.02739
+- A Post-Starburst Pathway for the Formation of Massive Galaxies and Black Holes at z>6 [Masafusa Onoue, Xuheng Ding, John D. Silverman]
+  https://arxiv.org/abs/2409.07113
+- The catalogue of virtual early-type galaxies from IllustrisTNG: validation and real observation consistency [Pedro de Araujo Ferreira, Nicola R. Napolitano, Luciano Casarini]
+  https://arxiv.org/abs/2501.04932
+- Differential virial analysis: a new technique to determine the dynamical state of molecular clouds [Mark R. Krumholz, Charles J. Lada, Jan Forbrich]
+  https://arxiv.org/abs/2501.16474
+- CASCO: Cosmological and AStrophysical parameters from Cosmological simulations and Observations III. The physics behind the emergence of the golden mass scale [C. Tortora, V. Busillo, N. R. Napolitano]
+  https://arxiv.org/abs/2502.13589
+- CO Emission and Absorption-line Survey of the M87 Nucleus Using Archival ALMA Imaging [Benjamin D. Boizelle, Xueyi Li, Nicholas LeVar]
+  https://arxiv.org/abs/2503.03249
+- Tidal phenomena in the Galactic Center: The curious case of X7 [Wasif Shaqil, Diego Calder\'on, Stephan Rosswog]
+  https://arxiv.org/abs/2504.15337
+- A Wide Field Map of Ultra-Compact Dwarfs in the Coma Cluster [Richard T. Pomeroy, Juan P. Madrid, Conor R. O'Neill and Alexander T. Gagliano]
+  https://arxiv.org/abs/2506.02296
+- PDRs4All XV: CH radical and H$_3^+$ molecular ion in the irradiated protoplanetary disk d203-506 [I. Schroetter, O. Bern\'e, J. R. Goicoechea]
+  https://arxiv.org/abs/2506.05186
+- Cool Gas in the Circumgalactic Medium of Massive Post Starburst Galaxies [Zoe Harvey, Sahyadri Krishna, Vivienne Wild]
+  https://arxiv.org/abs/2506.22287
+- Formation of Complex Organic Molecules in Prestellar Cores: The Role of Non-Diffusive Grain Chemistry [Katerina Borshcheva (1 and 2), Gleb Fedoseev (3, 4 and 1)]
+  https://arxiv.org/abs/2507.00338
+- The Distribution of Atomic Hydrogen in the Host Galaxies of FRBs [Hugh Roxburgh, Marcin Glowacki, Clancy W. James]
+  https://arxiv.org/abs/2507.06594
+- Blowing Star Formation Away in AGN Hosts (BAH) -- IV. Serendipitous discovery of a $z\sim2.9$ star-forming galaxy lensed by the galactic bulge of CGCG 012-070 using JWST NIRSpec [Rogemar A. Riffel, Carlos R. Melo-Carneiro, Gabriel Luan Souza-Oliveira]
+  https://arxiv.org/abs/2507.06696
+- Axionic defects in the CMB: birefringence and gravitational waves [Ricardo Z. Ferreira, Silvia Gasparotto, Takashi Hiramatsu]
+  https://arxiv.org/abs/2312.14104
+- Search for exotic gravitational wave signals beyond general relativity using deep learning [Yu-Xin Wang, Xiaotong Wei, Chun-Yue Li]
+  https://arxiv.org/abs/2410.20129
+- Interacting phantom dark energy: new accelerating scaling attractors [Sudip Halder, S. D. Odintsov, Supriya Pan]
+  https://arxiv.org/abs/2411.18300
+- The Spectre of Underdetermination in Modern Cosmology [Pedro G. Ferreira, William J. Wolf, James Read]
+  https://arxiv.org/abs/2501.06095
+- Gravitational waves from vacuum bubbles: ultraviolet dependence on wall thickness [Jun-Chen Wang, Shao-Jiang Wang, Zi-Yan Yuwen]
+  https://arxiv.org/abs/2503.00939
+- $\Lambda$CDM from broken diffeomorphisms [Javier de Cruz P\'erez, Antonio L. Maroto]
+  https://arxiv.org/abs/2504.02541
+- Phantom matters [David Andriot]
+  https://arxiv.org/abs/2505.10410
+- Gravitational-Wave Background from Extragalactic Double White Dwarfs for LISA [Guillaume Boileau, Tristan Bruel, Alexandre Toubiana]
+  https://arxiv.org/abs/2506.18390
+- Cosmological perturbations for smooth sign-switching dark energy models [Mariam Bouhmadi-L\'opez, Be\~nat Ibarra-Uriondo]
+  https://arxiv.org/abs/2506.18992
+- Significance of soft-scale breaking on primordial black hole production in Coleman-Weinberg type supercooling-phase transition [He-Xu Zhang, Katsuya Hashino, Hiroyuki Ishida and Shinya Matsuzaki]
+  https://arxiv.org/abs/2506.23752
+- Gravitational waves from a dilaton-induced, first-order QCD phase transition [Aleksandr Chatrchyan, M.C. David Marsh, Charalampos Nikolis]
+  https://arxiv.org/abs/2507.01191
+- Fragmentation of Dense Rotation-Dominated Structures Fed by Collapsing Gravomagneto-Sheetlets and Origin of Misaligned 100 au-Scale Binaries and Multiple Systems [Yisheng Tu, Zhi-Yun Li, Zhaohuan Zhu]
+  https://arxiv.org/abs/2403.07777
+- He awa whiria: the tidal streams of interstellar objects [John C. Forbes, Michele T. Bannister, Chris Lintott]
+  https://arxiv.org/abs/2411.14577
+- Probing the origins. II. Unravelling lithium depletion and stellar motion: Intrinsic stellar properties drive depletion, not kinematics [M. L. L. Dantas, R. Smiljanic, D. Romano]
+  https://arxiv.org/abs/2505.17173
+- Snapshot of a new interstellar comet: 3I/ATLAS has a red and featureless spectrum [Cyrielle Opitom, Colin Snodgrass, Emmanuel Jehin]
+  https://arxiv.org/abs/2507.05226
