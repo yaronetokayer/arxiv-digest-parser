@@ -9,7 +9,7 @@ Example input and output files are in this repo.
 Clone the repo and make sure you have Python 3.7+ installed. No external dependencies are required.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/arxiv-digest-parser.git
+git clone https://github.com/yaronetokayer/arxiv-digest-parser.git
 cd arxiv-digest-parser
 ```
 
