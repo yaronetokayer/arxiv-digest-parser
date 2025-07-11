@@ -2,7 +2,7 @@
 
 This is a command-line tool for parsing daily arXiv email digests. It extracts and summarizes article titles and authors, allowing for optional filtering and highlighting of keyword matches in the title or author list.
 
-Example input and output files have been provided.
+Example input and output files are in this repo.
 
 ### Setup
 
