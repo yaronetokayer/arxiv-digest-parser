@@ -18,6 +18,11 @@ def parse_arxiv_digest(text):
     articles = []
 
     for entry in entries:
+        # Remove entries that aren't new
+        lines = entry.splitlines()
+        if len(lines) > 1 and lines[2].strip().lower().startswith("replaced"):
+            continue
+
         arxiv_id_match = re.search(r"arXiv:(\d{4}\.\d{5})", entry)
         if not arxiv_id_match:
             continue
